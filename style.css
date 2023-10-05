@@ -1,0 +1,24 @@
+.wrap{
+    margin: 0px auto;
+    padding: 5px;
+}
+
+.intro{
+    text-align: center;
+    font-weight: bold;
+}
+
+.intro,.skill{
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+}
+
+.portofolio table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.portofolio table tr th,.portofolio table tr td{
+    border:1px solid #000;
+    text-align: center;
+} 
